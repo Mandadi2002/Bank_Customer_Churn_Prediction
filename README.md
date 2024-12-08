@@ -2,6 +2,8 @@
 Main Aim of this project is to predict whether a person will leave the bank services i.e. he/she will churn or not using Machine Learning and Auto Machine Learning Techniques. 
 live preview
 https://mandadi2002.github.io/Customer_Churn_Deployment/ 
+
+
 Abstract
 Customer churn is a critical issue for businesses, directly impacting revenue and long-term sustainability. This project focuses on developing and deploying a robust customer churn prediction system, leveraging advanced machine learning algorithms and data analytics. The solution is designed to identify customers likely to discontinue services or purchases, enabling proactive retention strategies.
 
